@@ -1,0 +1,19 @@
+name: em_env
+channels:
+  - conda-forge
+  - defaults
+  - mro
+dependencies:
+  - matplotlib=3.0.*
+  - pandas=0.24.*
+  - python=3.7.*
+  - scikit-learn=0.20.*
+  - seaborn=0.9.*
+  - statsmodels=0.9.*
+  - flake8=3.7.*
+  - openpyxl=2.6.*
+  - pip=19.0.*
+  - pip:
+      - pycryptodomex==3.8.1
+      - pytest-mpl==0.10.*
+      - pytest-cov==2.6.*
