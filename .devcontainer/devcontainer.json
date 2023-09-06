@@ -13,6 +13,12 @@
 				"johnstoncode.svn-scm",
 				"ms-toolsai.jupyter",
 			]
+		},
+		"codespaces": {
+			"openFiles": [
+				"README.md",
+				"test.ipynb"
+			]
 		}
 	}
 
